@@ -3,7 +3,7 @@
 <img width="1452" height="379" alt="image" src="https://github.com/user-attachments/assets/fcca17c5-5d18-44f3-9b68-edc532d2d807" />
 
 
-### Based on the outputs the average execution time increases as the image size increases. We also noticed that the timing is not exactly the same per run. This might be because of the background system processes, CPU scheduling and the lmitations of timer precisions at very short durations. 
+### - Based on the outputs the average execution time increases as the image size increases. We also noticed that the timing is not exactly the same per run. This might be because of the background system processes, CPU scheduling and the lmitations of timer precisions at very short durations. 
 
 # ii) screenshot of the program output with the correctness check. (We used round to nearest ties to even as instructed)
 
