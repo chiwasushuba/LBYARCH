@@ -1,3 +1,2 @@
-﻿  Performing Custom Build Tools
-  asmfunc.asm:5: error: expression syntax error
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(254,5): error MSB8066: Custom build for 'asmfunc.asm' exited with code 1.
+﻿  main.c
+  LBYARCH.vcxproj -> C:\Users\Joshua\source\repos\chiwasushuba\LBYARCH\LBYARCH\x64\Debug\LBYARCH.exe
